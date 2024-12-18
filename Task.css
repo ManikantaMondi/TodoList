@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    background-image: linear-gradient(rgba(rgba(0,0,0,0.5)),rgba(rgba(0,0,0,0.7))),url(./pq.jpg);
+    background-image: linear-gradient(rgba(rgba(rgba(24, 246, 213, 1))),rgba(rgba(0,0,0,0.7))),url(./pq.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
