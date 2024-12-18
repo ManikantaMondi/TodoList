@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    background-image: linear-gradient(rgba(rgba(rgba(24, 246, 213, 1))),rgba(rgba(rgba(24, 246, 213, 1)))),url(./pq.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)),url(./pq.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -15,7 +15,7 @@ body{
 #add-task-container{
     width: 500px;
     padding: 15px 15px;
-    background-color: rgb(0, 255, 255);
+    background-color: rgb(48, 71, 76);
     border-radius: 7px;
     box-shadow: 0 0 3px;
     margin-bottom: 20px;
@@ -26,7 +26,7 @@ body{
 .shadow{
     width: 700px;
     height: 500px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(255, 138, 136, 0.43);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .head h1{
